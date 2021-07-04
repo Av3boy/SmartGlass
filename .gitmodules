@@ -1,0 +1,6 @@
+[submodule "Hand-Tracking"]
+	path = Hand-Tracking
+	url = https://github.com/Av3boy/Hand-Tracking.git
+[submodule "SmartGlass-Interface"]
+	path = SmartGlass-Interface
+	url = https://github.com/Av3boy/SmartGlass-Interface.git
