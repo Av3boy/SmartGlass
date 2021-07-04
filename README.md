@@ -27,3 +27,5 @@ Generate a 3D keyboard to handle first version controls.
 ### Links & References
 
 https://www.amazon.com/2inch-IPS-LCD-Display-Module/dp/B082GFTZQD
+https://en.wikipedia.org/wiki/Raspberry_Pi
+https://www.raspberrypi.org/blog/vc4-and-v3d-opengl-drivers-for-raspberry-pi-an-update/
