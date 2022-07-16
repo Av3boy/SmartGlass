@@ -1,14 +1,25 @@
 # SmartGlass
-Software for custom smart glasses
 
-## Software
+NOTE: This repo uses these repos as submodules
+[GUI](https://github.com/Av3boy/SmartGlass-Interface)
+[Handtracking](https://github.com/Av3boy/Hand-Tracking)
+
+## Introduction
+
+SmartGlass is a computer assisted visual aid.
+You can browse the web, scan what you are seeing and analyze it.
+
+One primary function of the scan function is to calculate mathematical equations.
+You draw a box around the area of the equation and let the SmartGlass calculate it for you.
+
+### Software
 
 Using a multithreading solution we will be running C++ With OpenGL to render the interface on the smartglass.
 
 Along side C++, we will run Python which will be used to figure out where our hands are going to be.
 The hand data will be sent out to the main program which will also send the data to C++ to handle user key strokes.
 
-## Hardware
+### Hardware
 
 Using the latest Rasperry Pi 4 will be the best choice for its relatively small size and its large amount of processing power.
 
